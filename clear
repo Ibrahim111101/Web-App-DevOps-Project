@@ -1,0 +1,515 @@
+[33mcommit add518b1e8f9d356e1e8b26ab900d32158c72e9d[m[33m ([m[1;36mHEAD -> [m[1;32mrevert-delivery-date[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Merge: 597b6af 11a8f16
+Author: Ibrahim Aziz <147652387+Ibrahim111101@users.noreply.github.com>
+Date:   Tue Jan 30 20:37:54 2024 +0000
+
+    Merge pull request #2 from Ibrahim111101/feature/add-delivery-date
+    
+    added the delivery date and changed code accordingly
+
+[33mcommit 11a8f16616d7db0d24b8cbe2b91bda4427c9039f[m[33m ([m[1;31morigin/feature/add-delivery-date[m[33m, [m[1;32mfeature/add-delivery-date[m[33m)[m
+Author: Ibrahim <ibbyaziz786@yahoo.com>
+Date:   Tue Jan 30 20:35:58 2024 +0000
+
+    added the delivery date and changed code accordingly
+
+[33mcommit 597b6af1669345bf2f427bd66b3ce2a969595e9c[m
+Author: Ibrahim <ibbyaziz786@yahoo.com>
+Date:   Tue Jan 30 20:18:31 2024 +0000
+
+    added the delivery date and changed code accordingly
+
+[33mcommit fcabdefa16215ba42d1573b233dcd221f9731ac4[m
+Author: Ibrahim <ibbyaziz786@yahoo.com>
+Date:   Tue Jan 30 20:06:09 2024 +0000
+
+    added the delivery date and changed code accordingly
+
+[33mcommit 899ac6e07953d64579c6bc7d8cada9c5f15746f0[m
+Author: Maya Iuga <104773240+maya-a-iuga@users.noreply.github.com>
+Date:   Fri Nov 10 12:03:42 2023 +0000
+
+    Delete azure-pipelines.yml
+
+[33mcommit fd526a4b782cc2f2728862e6a00c376d74aa7c2d[m
+Author: Maya Iuga <104773240+maya-a-iuga@users.noreply.github.com>
+Date:   Fri Nov 10 11:53:54 2023 +0000
+
+    Update azure-pipelines.yml for Azure Pipelines
+
+[33mcommit 148050f8a82563018db33eb9fc9a251ab3fa8f3d[m
+Author: Maya Iuga <104773240+maya-a-iuga@users.noreply.github.com>
+Date:   Fri Nov 10 11:49:24 2023 +0000
+
+    Set up CI with Azure Pipelines
+    
+    [skip ci]
+
+[33mcommit f79caf6adcbbd57614faaf49584d2a705bbca2c7[m
+Author: Maya Iuga <maya_iuga@yahoo.ro>
+Date:   Thu Nov 2 11:18:52 2023 +0000
+
+    updates repo with files needed for students
+
+[33mcommit f11435a51192894e876fabcd198baf779e1fe997[m
+Merge: 96d3dfd cf16836
+Author: Maya Iuga <maya_iuga@yahoo.ro>
+Date:   Thu Nov 2 11:18:05 2023 +0000
+
+    Merge branch 'main' of github.com:maya-a-iuga/Web-App-DevOps-Project
+
+[33mcommit 96d3dfd40aac62e0fffd44ec88f8cc65df033253[m
+Author: Maya Iuga <maya_iuga@yahoo.ro>
+Date:   Thu Nov 2 11:17:58 2023 +0000
+
+    updates repo
+
+[33mcommit cf1683600c6eddf131fc6a05124a68b87f100718[m
+Author: Maya Iuga <104773240+maya-a-iuga@users.noreply.github.com>
+Date:   Thu Nov 2 09:23:06 2023 +0000
+
+    Update azure-pipelines-1.yml for Azure Pipelines
+
+[33mcommit e7f17e9c728b939ca358a44b8225c976fc74c853[m
+Author: Maya Iuga <104773240+maya-a-iuga@users.noreply.github.com>
+Date:   Thu Nov 2 09:15:20 2023 +0000
+
+    Update azure-pipelines-1.yml for Azure Pipelines
+
+[33mcommit 0e373bcce8ecabeee8d20e2625d37a39bb6e51ae[m
+Author: Maya Iuga <104773240+maya-a-iuga@users.noreply.github.com>
+Date:   Thu Nov 2 09:11:41 2023 +0000
+
+    test pipeline
+    
+    [skip ci]
+
+[33mcommit bced088c6b74291974590046c92c980fe3c1d400[m
+Merge: 83cd809 78ca422
+Author: Maya Iuga <104773240+maya-a-iuga@users.noreply.github.com>
+Date:   Mon Oct 30 16:12:13 2023 +0000
+
+    Merge pull request #35 from maya-a-iuga/maya-a-iuga-patch-1
+    
+    Update README.md
+
+[33mcommit 78ca422844aa6b1bb2fc79c149e085029ac3ad11[m[33m ([m[1;31morigin/maya-a-iuga-patch-1[m[33m)[m
+Author: Maya Iuga <104773240+maya-a-iuga@users.noreply.github.com>
+Date:   Mon Oct 30 16:11:58 2023 +0000
+
+    Update README.md
+
+[33mcommit 83cd809be1c84191262453aa2df9a366d995959d[m
+Author: Maya Iuga <maya_iuga@yahoo.ro>
+Date:   Mon Oct 30 15:36:28 2023 +0000
+
+    test lock branch feature
+
+[33mcommit 0ebe56211286522df8f154ceabb7c19d40117f1b[m
+Author: Maya Iuga <104773240+maya-a-iuga@users.noreply.github.com>
+Date:   Mon Oct 30 09:49:52 2023 +0000
+
+    Update README.md
+
+[33mcommit 8844c585edd2085ffafd5d94c671d0ff4a3b1141[m
+Author: Maya Iuga <104773240+maya-a-iuga@users.noreply.github.com>
+Date:   Thu Oct 19 15:25:41 2023 +0100
+
+    Update azure-pipelines.yml for Azure Pipelines
+
+[33mcommit ae512a7a3605c1e1c57637b298b3b0776db71f77[m
+Author: Maya Iuga <104773240+maya-a-iuga@users.noreply.github.com>
+Date:   Thu Oct 19 15:18:48 2023 +0100
+
+    Update azure-pipelines.yml for Azure Pipelines
+
+[33mcommit 5afd41e4aa93a05e3594cdffac297de01c0cf4b7[m
+Author: Maya Iuga <104773240+maya-a-iuga@users.noreply.github.com>
+Date:   Thu Oct 19 15:12:15 2023 +0100
+
+    Update azure-pipelines.yml for Azure Pipelines
+
+[33mcommit c0360a9c3a92a5c157bd8249b9d19e4d905f1e65[m
+Author: Maya Iuga <104773240+maya-a-iuga@users.noreply.github.com>
+Date:   Thu Oct 19 14:56:24 2023 +0100
+
+    Update azure-pipelines.yml for Azure Pipelines
+
+[33mcommit 6df788ec0d5a9692df211516d7d0d12af3d58c12[m
+Author: Maya Iuga <104773240+maya-a-iuga@users.noreply.github.com>
+Date:   Thu Oct 19 14:54:44 2023 +0100
+
+    Set up CI with Azure Pipelines
+    
+    [skip ci]
+
+[33mcommit bc056ce03a6ce72fa15c7939bd67672a5f76727b[m
+Author: Maya Iuga <104773240+maya-a-iuga@users.noreply.github.com>
+Date:   Thu Oct 19 14:44:02 2023 +0100
+
+    Delete azure-pipelines.yml
+
+[33mcommit c4f40759b5e5ad4e8de87906384bc3a2f1bc4e35[m
+Author: Maya Iuga <104773240+maya-a-iuga@users.noreply.github.com>
+Date:   Thu Oct 19 14:34:52 2023 +0100
+
+    Update azure-pipelines.yml for Azure Pipelines
+
+[33mcommit 9e75c51b3b89e4df53a4f39d97d646e1170e9176[m
+Merge: d02edfe 4418d85
+Author: Maya Iuga <maya_iuga@yahoo.ro>
+Date:   Thu Oct 19 14:30:15 2023 +0100
+
+    updates for containerisation
+
+[33mcommit d02edfeceead0ff8938a89913b527c4800b9ccd4[m
+Author: Maya Iuga <maya_iuga@yahoo.ro>
+Date:   Thu Oct 19 14:29:53 2023 +0100
+
+    updates for containerisation
+
+[33mcommit 4418d857a5f5b948ba1e3a9985f33c95298a6048[m
+Author: Maya Iuga <104773240+maya-a-iuga@users.noreply.github.com>
+Date:   Thu Oct 19 13:26:21 2023 +0100
+
+    Update azure-pipelines.yml for Azure Pipelines
+
+[33mcommit 0ecc004dd758fbb32c722d22f9f9aa3e1a5e645d[m
+Merge: 179598f df46fef
+Author: Maya Iuga <maya_iuga@yahoo.ro>
+Date:   Thu Oct 19 13:19:22 2023 +0100
+
+    Merge branch 'main' of github.com:maya-a-iuga/Web-App-DevOps-Project
+
+[33mcommit 179598f91dfa1a075c6a5a161038d5b0141617dc[m
+Author: Maya Iuga <maya_iuga@yahoo.ro>
+Date:   Thu Oct 19 13:19:14 2023 +0100
+
+    updates container name
+
+[33mcommit df46fef018959bb3b0d5a97439ddee1108afb693[m
+Author: Maya Iuga <104773240+maya-a-iuga@users.noreply.github.com>
+Date:   Thu Oct 19 13:02:59 2023 +0100
+
+    Update azure-pipelines.yml for Azure Pipelines
+
+[33mcommit c34f66c4ee5c89eed96bb3658483d6ccb2bb7a85[m
+Author: Maya Iuga <maya_iuga@yahoo.ro>
+Date:   Thu Oct 19 13:02:44 2023 +0100
+
+    updates container name
+
+[33mcommit 2e7c2e7790fcfe6d53fffa347005493c9cd6b681[m
+Merge: 389fd4c 11aad0a
+Author: Maya Iuga <maya_iuga@yahoo.ro>
+Date:   Thu Oct 19 13:02:13 2023 +0100
+
+    adds both deplyment and service in the same manifest
+
+[33mcommit 389fd4cb5a26c2c1ea21c8ffa3ab5de34c7560cf[m
+Author: Maya Iuga <maya_iuga@yahoo.ro>
+Date:   Thu Oct 19 13:01:28 2023 +0100
+
+    adds both deplyment and service in the same manifest
+
+[33mcommit 11aad0a4b5c2402deec44480d7fca2e30908b869[m
+Author: Maya Iuga <104773240+maya-a-iuga@users.noreply.github.com>
+Date:   Thu Oct 19 12:58:17 2023 +0100
+
+    Update azure-pipelines.yml for Azure Pipelines
+
+[33mcommit dcb809c950a3ef4afb3f7f37663362e2a56079c1[m
+Merge: 6637d73 c064380
+Author: Maya Iuga <maya_iuga@yahoo.ro>
+Date:   Thu Oct 19 12:51:19 2023 +0100
+
+    Merge branch 'main' of github.com:maya-a-iuga/Web-App-DevOps-Project
+
+[33mcommit 6637d73b2aabb930e9013e6149c3b00bb2d44461[m
+Author: Maya Iuga <maya_iuga@yahoo.ro>
+Date:   Thu Oct 19 12:51:09 2023 +0100
+
+    adds deployments manifests
+
+[33mcommit c06438015e3080e2b89cc89e6e9f389418e48f47[m
+Author: Maya Iuga <104773240+maya-a-iuga@users.noreply.github.com>
+Date:   Thu Oct 19 11:58:15 2023 +0100
+
+    Update azure-pipelines.yml for Azure Pipelines
+
+[33mcommit 5ec15a48a95ba78489e83f5d9d336bfcf6f8ad89[m
+Author: Maya Iuga <104773240+maya-a-iuga@users.noreply.github.com>
+Date:   Thu Oct 19 11:51:50 2023 +0100
+
+    Set up CI with Azure Pipelines
+    
+    [skip ci]
+
+[33mcommit 37ec8c65918fa293c45aa6c9b463ea6b7873181e[m
+Author: Maya Iuga <104773240+maya-a-iuga@users.noreply.github.com>
+Date:   Thu Oct 19 11:51:21 2023 +0100
+
+    Delete azure-pipelines.yml
+
+[33mcommit 41bd8570e06e89aa17aa91484d18075ea137af91[m
+Author: Maya Iuga <maya_iuga@yahoo.ro>
+Date:   Thu Oct 19 11:41:52 2023 +0100
+
+    adds back dockerfile
+
+[33mcommit 4e3b8492168aaec3f3e51e70a92f9aa2a4ea9656[m
+Author: Maya Iuga <maya_iuga@yahoo.ro>
+Date:   Thu Oct 19 11:41:29 2023 +0100
+
+    removes dockerfile
+
+[33mcommit 9a3ffbb9ad9802f9b05c3381f044da74ddb35d64[m
+Author: Maya Iuga <maya_iuga@yahoo.ro>
+Date:   Thu Oct 19 11:40:56 2023 +0100
+
+    updates name for dockerfile
+
+[33mcommit 7cd7259e06615b8b1a8f6535886c33855b1a08f3[m
+Author: Maya Iuga <104773240+maya-a-iuga@users.noreply.github.com>
+Date:   Thu Oct 19 11:37:49 2023 +0100
+
+    Add files via upload
+
+[33mcommit 4cb85148dc3cb0550f52c84267e4e6516a7b96c2[m
+Author: Maya Iuga <104773240+maya-a-iuga@users.noreply.github.com>
+Date:   Thu Oct 19 11:34:35 2023 +0100
+
+    Update azure-pipelines.yml for Azure Pipelines
+
+[33mcommit ace4c66ef292f1665c51f2d0774471b82d48e013[m
+Author: Maya Iuga <104773240+maya-a-iuga@users.noreply.github.com>
+Date:   Thu Oct 19 10:36:37 2023 +0100
+
+    Set up CI with Azure Pipelines
+    
+    [skip ci]
+
+[33mcommit 639de65cc274e1d45cb6c7b948dd1b83193013d7[m
+Author: Maya Iuga <maya_iuga@yahoo.ro>
+Date:   Wed Sep 6 16:30:02 2023 +0100
+
+    removes extra bracket
+
+[33mcommit 69beec0cd2749b86f5093b55252ed4e3d955c6af[m
+Author: Maya Iuga <maya_iuga@yahoo.ro>
+Date:   Wed Sep 6 16:29:05 2023 +0100
+
+    goes back to sql login
+
+[33mcommit 25288ae3521a774feaae50f8c685790c20771cc6[m
+Author: Maya Iuga <maya_iuga@yahoo.ro>
+Date:   Wed Sep 6 14:16:50 2023 +0100
+
+    Adds azure ad authentication to db
+
+[33mcommit 9ff82655313d451bf263a22637e2a110647ac6d8[m
+Author: Maya Iuga <maya_iuga@yahoo.ro>
+Date:   Wed Sep 6 10:11:26 2023 +0100
+
+    changes azure sql database to local postgres db
+
+[33mcommit 7b9b0907365a6317e7e1e35471f7deec7c1fc341[m
+Author: Maya Iuga <104773240+maya-a-iuga@users.noreply.github.com>
+Date:   Thu Aug 31 17:56:13 2023 +0100
+
+    Update README.md
+
+[33mcommit 2720526abcfb76ad3472f973d5574a5a7b756684[m
+Author: Maya Iuga <104773240+maya-a-iuga@users.noreply.github.com>
+Date:   Thu Aug 31 17:53:49 2023 +0100
+
+    Create LICENSE
+
+[33mcommit df2b8942aa61d6adeb88457421f05e83db9447fe[m
+Author: Maya Iuga <104773240+maya-a-iuga@users.noreply.github.com>
+Date:   Thu Aug 31 15:49:49 2023 +0100
+
+    Update README.md with screenshots
+
+[33mcommit 42ba914c733ba59bca2ca528d597b6696193b96a[m
+Author: Maya Iuga <maya_iuga@yahoo.ro>
+Date:   Thu Aug 31 15:45:31 2023 +0100
+
+    adds requirements.txt file
+
+[33mcommit 3f642612f28584126fbec383c15bccc39c255bf7[m
+Author: Maya Iuga <104773240+maya-a-iuga@users.noreply.github.com>
+Date:   Thu Aug 31 15:38:38 2023 +0100
+
+    Update README.md
+
+[33mcommit 871fd9df17bc5df4dab456c28270aa427eb3ce1e[m
+Merge: 41e7297 987ade8
+Author: Maya Iuga <104773240+maya-a-iuga@users.noreply.github.com>
+Date:   Wed Aug 30 16:10:57 2023 +0000
+
+    Merge pull request #23 from maya-a-iuga/dev
+    
+    Daily sync
+
+[33mcommit 987ade86ef97b02a481058a1a55c113e2a9c8318[m
+Merge: eb7fdcf d471fdc
+Author: Maya Iuga <104773240+maya-a-iuga@users.noreply.github.com>
+Date:   Wed Aug 30 16:10:11 2023 +0000
+
+    Merge pull request #22 from maya-a-iuga/enhancement-21
+    
+    web app has now two separate tabs for the functionalities
+
+[33mcommit d471fdc7c0ed1d0b94945adc6627c77f1a05ac32[m[33m ([m[1;31morigin/enhancement-21[m[33m)[m
+Author: Maya Iuga <maya_iuga@yahoo.ro>
+Date:   Wed Aug 30 17:05:31 2023 +0100
+
+    adds styling for buttons
+
+[33mcommit 133257ffe32ad7a76df65f4b9e79ea791b60a46a[m
+Author: Maya Iuga <maya_iuga@yahoo.ro>
+Date:   Wed Aug 30 16:44:01 2023 +0100
+
+    updates html code
+
+[33mcommit f97cccf9b2a357df74d616333aecafe7e7b0f765[m
+Author: Maya Iuga <maya_iuga@yahoo.ro>
+Date:   Wed Aug 30 16:41:47 2023 +0100
+
+    updates html code
+
+[33mcommit eb7fdcf71ea5459f662582b9751baf0930f69b3c[m
+Merge: 827bb1f 7a3dd62
+Author: Maya Iuga <104773240+maya-a-iuga@users.noreply.github.com>
+Date:   Wed Aug 30 15:36:17 2023 +0000
+
+    Merge pull request #20 from maya-a-iuga/feature-19
+    
+    Separate Order List and Add New Order functionality into two tabs
+
+[33mcommit 7a3dd625d18660ed6be5dec7169eb3ea12b9b5f1[m[33m ([m[1;31morigin/feature-19[m[33m)[m
+Author: Maya Iuga <maya_iuga@yahoo.ro>
+Date:   Wed Aug 30 16:34:37 2023 +0100
+
+    moves JavaScript to correct location
+
+[33mcommit 11b75c27887b7d0a7d2e7bfc2cc1b9bdd5801a12[m
+Author: Maya Iuga <maya_iuga@yahoo.ro>
+Date:   Wed Aug 30 16:32:50 2023 +0100
+
+    improves appearance of the tab buttons and content
+
+[33mcommit 93493ce9270ac85e81b3daa97210c55ef33f5a96[m
+Author: Maya Iuga <maya_iuga@yahoo.ro>
+Date:   Wed Aug 30 16:31:58 2023 +0100
+
+    modifies JavaScript to handle both pagination and tab switching
+
+[33mcommit 510e72e15c6a582039b90b1249f236f29d1aef2d[m
+Author: Maya Iuga <maya_iuga@yahoo.ro>
+Date:   Wed Aug 30 16:30:28 2023 +0100
+
+    modifies the html code
+
+[33mcommit 41e72977df25847e54d6c0a779ec395ab6893a9c[m
+Merge: 3a181d8 827bb1f
+Author: Maya Iuga <104773240+maya-a-iuga@users.noreply.github.com>
+Date:   Wed Aug 30 15:26:58 2023 +0000
+
+    Merge pull request #18 from maya-a-iuga/dev
+    
+    Daily sync
+
+[33mcommit 827bb1f3c23effd693a8cc13261e61fdcabec88f[m
+Merge: f6181f8 d258a80
+Author: Maya Iuga <104773240+maya-a-iuga@users.noreply.github.com>
+Date:   Wed Aug 30 15:26:24 2023 +0000
+
+    Merge pull request #17 from maya-a-iuga/enhancement-16
+    
+    adds table styling
+
+[33mcommit d258a8051e6cca5e00289e1e430b058b900ccd5c[m[33m ([m[1;31morigin/enhancement-16[m[33m)[m
+Author: Maya Iuga <maya_iuga@yahoo.ro>
+Date:   Wed Aug 30 16:25:44 2023 +0100
+
+    adds table styling
+
+[33mcommit f6181f8b66d96b4b7cce02d6d980a5e6852964be[m
+Merge: 89bfb55 caa1dec
+Author: Maya Iuga <104773240+maya-a-iuga@users.noreply.github.com>
+Date:   Wed Aug 30 14:47:26 2023 +0000
+
+    Merge pull request #15 from maya-a-iuga/feature-14
+    
+    Feature 14
+
+[33mcommit caa1dece72ddf05d4457fdc2dcc7881909889963[m[33m ([m[1;31morigin/feature-14[m[33m)[m
+Author: Maya Iuga <maya_iuga@yahoo.ro>
+Date:   Wed Aug 30 15:42:52 2023 +0100
+
+    adds order by clause to ensure consistent ordering with correct primary key
+
+[33mcommit 9b79bb990cc740385f9b2b8aecab640ec6803145[m
+Author: Maya Iuga <maya_iuga@yahoo.ro>
+Date:   Wed Aug 30 15:42:16 2023 +0100
+
+    adds order by clause to ensure consistent ordering
+
+[33mcommit 4165d860100e4b045cd9602740d8aba796aff990[m
+Author: Maya Iuga <maya_iuga@yahoo.ro>
+Date:   Wed Aug 30 15:40:55 2023 +0100
+
+     adds Java Script code for pagination
+
+[33mcommit c06546b91ae1a4842b244cd39a392a0d43d11144[m
+Author: Maya Iuga <maya_iuga@yahoo.ro>
+Date:   Wed Aug 30 15:40:11 2023 +0100
+
+    adds pagination controls to html code
+
+[33mcommit c4f442be0f4140dbe2af7c3134adfc82cd3f3bdc[m
+Author: Maya Iuga <maya_iuga@yahoo.ro>
+Date:   Wed Aug 30 15:38:57 2023 +0100
+
+    updates flask code for pagination
+
+[33mcommit 3a181d8eadfbff5ebfad2df0f7395e5ca9be4f96[m
+Merge: 641dcf5 89bfb55
+Author: Maya Iuga <104773240+maya-a-iuga@users.noreply.github.com>
+Date:   Wed Aug 30 14:35:05 2023 +0000
+
+    Merge pull request #13 from maya-a-iuga/dev
+    
+    Daily sync
+
+[33mcommit 89bfb55de850c6150fae0c76e2ecbe4d964b13de[m
+Merge: 661e066 b0abcf1
+Author: Maya Iuga <104773240+maya-a-iuga@users.noreply.github.com>
+Date:   Wed Aug 30 14:34:39 2023 +0000
+
+    Merge pull request #12 from maya-a-iuga/enhancement-11
+    
+    modifies orders list to be displayed as a table
+
+[33mcommit b0abcf1841a5e845b4ff41604f380546cf8190c5[m[33m ([m[1;31morigin/enhancement-11[m[33m)[m
+Author: Maya Iuga <maya_iuga@yahoo.ro>
+Date:   Wed Aug 30 15:32:57 2023 +0100
+
+    modifies orders list to be displayed as a table
+
+[33mcommit 661e0668001b37398c3fa766d926425d50f516d7[m
+Merge: f1cb0a3 c443cca
+Author: Maya Iuga <104773240+maya-a-iuga@users.noreply.github.com>
+Date:   Wed Aug 30 14:27:55 2023 +0000
+
+    Merge pull request #10 from maya-a-iuga/feature-9
+    
+    adds updated version of app to read from Azure sql database
+
+[33mcommit c443ccaf0a5de772f6a06f2f344d6bdab662191e[m[33m ([m[1;31morigin/feature-9[m[33m)[m
+Author: Maya Iuga <maya_iuga@yahoo.ro>
+Date:   Wed Aug 30 15:25:58 2023 +0100
+
+    adds updated version of app to read from Azure sql database
